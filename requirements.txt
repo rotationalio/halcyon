@@ -1,4 +1,8 @@
+emoji==2.11.0
+numpy==1.26.4
 pyensign==0.12.1b0
+regex==2023.12.25
 scikit-learn==1.4.2
 streamlit==1.33.0
+xgboost==2.0.3
 yellowbrick==1.5
